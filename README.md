@@ -32,6 +32,8 @@ O objetivo é simples: **faça o Mario pular os canos** para sobreviver o máxim
    ```
 
 2. Entre na pasta do projeto:
+   ```bash
    cd mario-jump
-
+   ```
+   
 3. Abra o arquivo index.html no navegador.
